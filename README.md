@@ -1,0 +1,2 @@
+# FaceReconstructionEigenface
+ Uses Principal Component Analysis to find inroads into the computer vision problem of facial recognition. PCA is used to reduce data variables by extracting important features from a large dataset.  PCA code is written from the ground up. This reduces the feature set from 5655 entries to 2. It is seen that a face can be reconstructed with 95% accuracy using only 180 features as compared to the 5655 features intially provided. This saves a lot computation time and space, while still being an accurate model for face recognition. 
